@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="login">Войти</string>
+    <string name="toDoHint">Надо сделать…</string>
+    <string name="addToDo">Добавить</string>
+    <string name="approveEdit">Сохранить</string>
+    <string name="cancelEdit">Отменить</string>
+    <string name="wrongLogin">Неверный логин или пароль</string>
+    <string name="userAlreadyExists">Такой пользователь уже зарегистрирован</string>
+    <string name="userCreateError">Ошибка при регистрации пользователя</string>
+    <string name="createTaskError">Ошибка при создании дела</string>
+    <string name="taskLoadError">Ошибка при получении дела</string>
+    <string name="taskUpdated">Дело сохранено</string>
+    <string name="taskAdded">Дело добалено</string>
+    <string name="taskRemoved">Дело удалено</string>
+    <string name="removeTask">Удалить</string>
+    <string name="emptyTaskDescription">Введите описание дела</string>
+    <string name="emptyLoginOrPassword">Введите логин и пароль</string>
+
+</resources>
